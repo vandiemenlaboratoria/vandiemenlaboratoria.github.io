@@ -26,8 +26,10 @@ export default function Home() {
             <Image
               src="/Van Diemen Laboratoria-4.png"
               alt="Van Diemen Laboratoria"
-              width={1000}
-              height={1000}
+              className={styles.image}
+              // width={720}
+              // height={720}
+              fill={true}
               priority
             />
           </a>
@@ -86,7 +88,7 @@ export default function Home() {
               Smart Contracts <span>-&gt;</span>
             </h2>
             <p className={inter.className}>
-              Experts in complex Solidity and EVM development
+              Masters in complex Solidity and EVM development
             </p>
           </a>
         </div>
