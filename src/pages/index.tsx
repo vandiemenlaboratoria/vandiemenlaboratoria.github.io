@@ -17,7 +17,7 @@ export default function Home() {
 					rel="noopener noreferrer"
 				>
 					<h2 className={inter.className}>
-						Infrastructure<span>-&gt;</span>
+						Infrastructure <span>-&gt;</span>
 					</h2>
 					<p className={inter.className}>
 						Responsible, principled, &amp; secure blockchain node
@@ -32,7 +32,7 @@ export default function Home() {
 					rel="noopener noreferrer"
 				>
 					<h2 className={inter.className}>
-						Architecture<span>-&gt;</span>
+						Architecture <span>-&gt;</span>
 					</h2>
 					<p className={inter.className}>
 						Full stack and web3 solution design with twenty years
@@ -64,7 +64,7 @@ export default function Home() {
 						Smart Contracts <span>-&gt;</span>
 					</h2>
 					<p className={inter.className}>
-						Masters in complex Solidity and EVM development
+						Mastery of complex Solidity and EVM development
 					</p>
 				</a>
 			</div>
